@@ -150,13 +150,16 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+     Creation of new facility websites, pages and content for various company sites.
+     I am specialized in Web Design, Development and Web Programming (API). 
+     I am also trained and particularly interested in the areas of E-commerce, 
+     Web Content Management and Web Marketing.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: PHPBB FORUM
+        link: "http://forum.echittagong.com"
+        tagline: "Used Technologies - PHPBB OPEN SOURCE FORUM SOFTWARE. e-Chittagong Forums is a site where
+        technology users Share about tech, get help, 
+        support and advice, and discuss hardware and software, PCs, mobile and many more."
 
       - title: DevStudio
         link: "#"
