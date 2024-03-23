@@ -53,6 +53,13 @@ career-profile:
 education:
     title: Education
     info:
+     - degree: Masters In (ECONOMICS)
+        university: NATIONAL UNIVERSITY
+        time: 2015 - 2017
+        details: |
+         The courses of study include microeconomics and macroeconomics, 
+         econometrics, statistics, history of economics, political economy etc.
+         
       - degree: HONS (ECONOMICS)
         university: NATIONAL UNIVERSITY
         time: 2009 - 2013
