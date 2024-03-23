@@ -209,26 +209,34 @@ oss:
         tagline: "★ Sketch. ★ Adobe XD. ★ Figma. ★ Balsamiq.★ Mockplus."
 
 publications:
-    title: Publications
+    title: Website Development
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Accomplished web designer & front-end developer with extensive experience 
+      building WordPress driven websites, HTML5, CSS3 and various web scripting technologies, 
+      web standards and project management. Provide a diverse range of services including 
+      custom theme, SEO/SEM, and branding to an array of clients from a variety of industries. 
+      Enthusiastic web professional motivated by challenging projects and deadlines.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: IT CHAMBERS
+        link: "https://itchambers.com"
+        authors: Responsive Design
+        conference: "Dealing with all the aspects of enterprise solutions- right from system study,
+        consultancy, developments, testing, benchmarking, training, implementation and after sales services."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "IT Chambers Training Program"
+        link: "http://training.itchambers.com"
+        authors: Choose Any Course As Per Your Interest To Become An Expert
+        conference: "In A View To Making Talented And Capable IT Workers, We Are Giving IT Training And 
+        Day Long Seminar For Both Professionals And Beginners Who Need To Add Some Additional Knowledge, 
+        Proficiency, And Aptitude To Their Abilities."
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: IT Consultancy & Project Management
+        link: "https://portfolio.itchambers.com"
+        authors: Web & E-Commerce Design & Development
+        conference: "IT CHAMBERS a Chittagong-based Information Technology Company providing quality and 
+        one-stop services for the Digital Transformation of your business and life. We Listen to your Wishes,
+        Visualize your plan and make it Happen. At IT CHAMBERS, we believe an eProduct needs to be felt, 
+        not just seen. We do care for the smallest details which make all the difference for a project BIG or SMALL."
 
 skills:
     title: Skills &amp; Proficiency
