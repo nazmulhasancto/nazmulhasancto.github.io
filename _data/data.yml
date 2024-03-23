@@ -185,19 +185,24 @@ Web Developer | Wordpress | Expert VA | Ecommerce Product Entry | Researcher | S
 We solve business challenges and problems through our digital services."
 
 oss:
-    title: OSS Contributions
+    title: SPECIAL QUALIFICATION
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Looking for challenging career, where there is scope for demonstration, dynamic working environment,
+      be a part of a team which is vibrant and diverse, always on a lookout for a positive & bigger outlook, 
+      opportunity for steady carrier growth.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Web Design & Development
+        link: "https://nazmulhasan.itchambers.com"
+        tagline: "Html,Css,XML,Java-script,PHP,MySQL,Flash, Responsive Web designs(Bootstrap). Tailwind CSS"
 
-      - title: Atom
+      - title: Graphic Design
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "- UI and Interactive Design
+        - Advertising and Marketing Design
+        - Motion Graphics and Animation
+        - Packaging Design
+        - Illustration
+        - Publication and Typographic Design"
 
       - title: Delta
         link: "#"
