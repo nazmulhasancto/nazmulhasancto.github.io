@@ -40,17 +40,7 @@ sidebar:
           level: Native
 
 
-    interests:
-      title: Interests
-      info:
-        - item: Psychology
-          link:
-
-        - item: Sociology
-          link:
-
-        - item: Cooking
-          link:
+    
 
 career-profile:
     title: Career Objective
