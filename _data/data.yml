@@ -132,26 +132,20 @@ certifications:
             a digital image and content using an image processing application 
             - ★ Create shapes and apply text (e.g. Illustrator)
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+        - name: NATIONAL SKILL CERTIFICATE-I
+          Pas.Year: 2016
+          organization: BANGLADESH TECHNICAL EDUCATION BOARD,DHAKA
+          StudentCode: S160000230
+          credentialurl: https://rb.gy/rrtrbv
+          credentialname: IT Support Technician
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            - ★ Use basic mathematical concepts Apply OSH, 
+            - ★ practices in the workplace, 
+            - ★ Apply workplace information Operate a PC and use office 
+            application software Send information using email, web browsers, 
+            - ★ Type documents in Bangla and 
+            - ★ English Assemble 
+            - ★ Hardware components.
 
 projects:
     title: Projects
