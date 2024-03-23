@@ -69,16 +69,14 @@ education:
         details: |
          The courses of study include microeconomics and macroeconomics, 
          econometrics, statistics, history of economics, political economy etc.
-            - Bullet point
-            - Bullet point
+           
       - degree: HSC (HIGHER SCHOOL CERTIFICATE)
         university: B,A,F SHAHEEN COLLAGE TEJGOAN DHAKA
         time: 2004 - 2006
         details: |
           Students from Humanities groups in Bangladesh have more 
           choice than any other group e.g. Science or Business Studies
-            - Bullet point
-            - Bullet point
+            
        
 
 experiences:
@@ -96,31 +94,27 @@ experiences:
           experience design;Over 10+ years experience in visual UI / front-end & Back-End 
           development work,PHP, JavaScript, CSS, and jQuery, XHTML 1.1, Web Standard HTML5 
           And Wordpress,Joomla,OpenCart,Phpbb Platforms.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          
+      - role: TRAINER : OUTSOURCING / FREELANCING With Web & GRAPHIC Design
+        time: November 25, 2015 - June 01, 2020
+        company: BKTTC,CHITTAGONG
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          After completion of the course the trainee will be able to Enhance underpinning 
+          knowledge and skills of freelancing. Apply knowledge, skills and attitude required
+          for Search Engine Optimization (SEO), Web Design and Graphic Design. Perform On-Page 
+          optimization, Off-page optimization, Social Marketing, Link Building, Market place,
+          Web Design & Graphic Design.
+          
+      - role: UI/UX Designer
+        time: October 28, 2012 - July 1, 2015
+        company: NETWORKING SOLUTIONS BANGLADESH
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+         Designed and developed diverse online advertising projects such as rich media,
+         banner, landing page,microsite,website content such as static, animated, and 
+         interactive graphics for Various Companies.
+            - Adobe family
+            - HTML,CSS,BOOTSTRAP,JS,PHP,MySQL
+            
 certifications:
       title: Certifications
       list:
