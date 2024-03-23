@@ -53,18 +53,21 @@ career-profile:
 education:
     title: Education
     info:         
-      - degree: M S S Masters In Economics
-        university: NATIONAL UNIVERSITY
-        time: 2015 - 2017
-        details: |
-         Bring your passion and analytical skills to new heights 
-         with an accounting degree at National University.
+      - degree: BA Honours in Economics
+        university: Govt Titumir College
+        time: 2009 - 2013
+        details: |
+          The courses of study include microeconomics and macroeconomics, 
+         econometrics, statistics, history of economics, political economy etc.
+          
+      - degree: HSC (HIGHER SCHOOL CERTIFICATE)
+        university: B,A,F SHAHEEN COLLAGE TEJGOAN DHAKA
+        time: 2004 - 2006
+        details: |
+         Students from Humanities groups in Bangladesh have more 
+          choice than any other group e.g. Science or Business Studies.
          
-        - degree: u
-        university: a
-        time: 2015 - 2017
-        details: |
-         nnn   
+          
      
 
 experiences:
