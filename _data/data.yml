@@ -196,7 +196,7 @@ oss:
         tagline: "Html,Css,XML,Java-script,PHP,MySQL,Flash, Responsive Web designs(Bootstrap). Tailwind CSS"
 
       - title: Graphic Design
-        link: "#"
+        link: "https://nazmulhasan.itchambers.com"
         tagline: "★ UI and Interactive Design
         ★ Advertising and Marketing Design
         ★ Motion Graphics and Animation
@@ -204,9 +204,9 @@ oss:
         ★ Illustration
         ★ Publication and Typographic Design"
 
-      - title: Software
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: UI/UX Software
+        link: "https://nazmulhasan.itchambers.com"
+        tagline: "★ Sketch. ★ Adobe XD. ★ Figma. ★ Balsamiq.★ Mockplus."
 
 publications:
     title: Publications
