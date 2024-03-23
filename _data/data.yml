@@ -122,7 +122,7 @@ certifications:
           organization: BANGLADESH TECHNICAL EDUCATION BOARD,DHAKA
           StudentCode: S170002690
           credentialurl: https://rb.gy/rrtrbv
-          SubjectName: Graphic Design
+          credentialname: Graphic Design
           details: |
             - ★ Use English in the workplace 
             - ★ Operate in a self- directed team 
@@ -137,7 +137,7 @@ certifications:
           organization: BANGLADESH TECHNICAL EDUCATION BOARD,DHAKA
           StudentCode: S160000230
           credentialurl: https://rb.gy/rrtrbv
-          SubjectName: IT Support Technician
+          credentialname: IT Support Technician
           details: |
             - ★ Use basic mathematical concepts Apply OSH, 
             - ★ practices in the workplace, 
