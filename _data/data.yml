@@ -161,21 +161,28 @@ projects:
         technology users Share about tech, get help, 
         support and advice, and discuss hardware and software, PCs, mobile and many more."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: HOSTING DOMAIN PROVIDER
+        link: "https://www.itchambers.com"
+        tagline: "IT Chambers Is The Best Web Hosting Company In Bangladesh. 
+        The Single Most Important Thing Is To Make People Happy. If You Are Making People Happy, 
+        As A Side Effect, They Will Be Happy To Open Up Their Wallets And Pay You."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: VOW BD Website & LOGO DESIGN
+        link: "https://vowbd.com"
+        tagline: "Our Electronics,Fashion...Products, Make your life easier.
+        Contact us about anything related to our company or services.
+        We'll do our best to get back to you as soon as possible."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: FACEBOOK PAGE BANNER DESIGN
+        link: "https://www.facebook.com/theNextFashion01"
+        tagline: "Collection of popular bangladesh clothes, fashion! 
+        If you are interested in pinning to it, just leave a comment on Facebook."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: COMPANY PORTFOLIO
+        link: "https://www.ypdesigner.com"
+        tagline: "Yp Designer-
+Web Developer | Wordpress | Expert VA | Ecommerce Product Entry | Researcher | SEO
+We solve business challenges and problems through our digital services."
 
 oss:
     title: OSS Contributions
