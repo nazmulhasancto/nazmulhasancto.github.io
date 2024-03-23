@@ -117,22 +117,18 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: NATIONAL SKILL CERTIFICATE-II
+          Pas.Year: 2019
+          organization: BANGLADESH TECHNICAL EDUCATION BOARD,DHAKA
+          StudentCode: S170002690
+          credentialurl: https://rb.gy/rrtrbv
+          SubjectName: Graphic Design
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            ★ Use English in the workplace ★ Operate in a self- directed team 
+            ★Present and apply workplace information 
+            ★ Apply compliance and ethics in IT work enviornment ★Manipulate and retouch
+            a digital image and content using an image processing application 
+            ★ Create shapes and apply text (e.g. Illustrator)
 
             Second paragraph. Sed eleifend enim ante, vitae efficitur purus
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
