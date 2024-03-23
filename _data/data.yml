@@ -63,26 +63,27 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: HONS (ECONOMICS)
+        university: NATIONAL UNIVERSITY
+        time: 2009 - 2013
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+         The courses of study include microeconomics and macroeconomics, 
+         econometrics, statistics, history of economics, political economy etc.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: HSC (HIGHER SCHOOL CERTIFICATE)
+        university: B,A,F SHAHEEN COLLAGE TEJGOAN DHAKA
+        time: 2004 - 2006
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Students from Humanities groups in Bangladesh have more 
+          choice than any other group e.g. Science or Business Studies
+            - Bullet point
+            - Bullet point
+        - degree: SSC (SECONDARY SCHOOL CERTIFICATE)
+        university: B,A,F SHAHEEN COLLAGE TEJGOAN DHAKA
+        time: Pas.Year 2004
+        details: |
+         The Secondary School Certificate, also called SSC or Matriculation examination.
             - Bullet point
             - Bullet point
 
