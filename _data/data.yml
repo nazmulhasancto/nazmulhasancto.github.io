@@ -225,14 +225,12 @@ skills:
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Illustrator & Blender
+        level: 100%
 
       - name: Sketch & Photoshop
         level: 90%
 
-         - name: Illustrator & Blender
-        level: 100%
 
 footer: >
     Designed By <i class="fas fa-heart"></i> by <a href="http://nazmulhasan.itchambers.com" target="_blank" rel="nofollow">Md. Nazmul Hasan</a>
