@@ -1,48 +1,125 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Md. Nazmul Hasan</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <style>
-    *{
-      margin: 0px;
-      padding: 0px;
-    }
-    ul li a {
-      a:link{
-        text-decoration: none;
-        color: black;
-      }
-    }
-    ul li{
-      list-style: none;
-    margin: 20px 40px 20px 40px;
-    }
-    ul {
-        display: flex;
-	justify-content: space-between;
-    }
-    .header {
-      background-color: #F2F2F2;
-      width: 100%;
-      height: fit-content;
-    }
-  </style>
-</head>
-<body>
-  <section class="header">
-    <div class="info">
-      <ul>
-        <li class="info"><i class="fa-solid fa-envelope-circle-check"></i><a href="mailto:hasan.nazmul64@gmail.com">hasan.nazmul64@gmail.com</a></li>
-        <li class="info"><i class="fa-solid fa-mobile-screen"></i><a href="tel:01671853032">01671853032</a></li>
-        <li class="info"><i class="fa-solid fa-house-chimney"></i><a href="https://www.google.com/maps/place/IT+CHAMBERS/@22.3899986,91.8039848,17z/data=!3m1!4b1!4m6!3m5!1s0x30acd9c0b97891b1:0xa068fe24cfbbee06!8m2!3d22.3899937!4d91.8085982!16s%2Fg%2F11lgj96j9c?entry=ttu&g_ep=EgoyMDI1MTExNy4wIKXMDSoASAFQAw%3D%3D">Bayazid, Chittagong</a></li>
-      </ul>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous" />
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+      <style>
+div.row>div a {
+    text-decoration: none;
+    color:black;
+}
+
+div.row>div {
+   padding: 5px;
+}
+body>div.bg{
+    background-color: #F2F2F2;
+    padding: 10px 0px;
+}
+.designation {
+    margin-bottom: 5px;
+    color: #0070C1;
+    font-weight: 600;
+    
+}
+div.col-md-8>h2{
+    margin-bottom: -30px;
+    margin-top: 20px;
+}
+
+      </style>
+  </head>
+  <body>
+    <div class="container-fluid bg">
+  
+        <div class="container text-center">
+  <div class="row">
+    <div class="col-md-4  col-sm-12">
+      <i style="--fa-animation-duration: 3s;" class="fa-2x fa-fade fa-solid fa-envelope-circle-check"></i><br/><a href="mailto:hasan.nazmul64@gmail.com">hasan.nazmul64@gmail.com</a>
     </div>
-  </section>
-  <section class="title"></section>
-  <section class="body"></section>
-  <section class="footer"></section>
-</body>
+    <div class="col-md-4 col-sm-12">
+      <i style="--fa-animation-duration: 3s;" class="fa-2x fa-fade fa-solid fa-mobile-screen"></i><br/><a href="tel:01671853032">01671853032</a>
+    </div>
+    <div class="col-md-4 col-sm-12">
+      
+        <i style="--fa-animation-duration: 3s;" class="fa-2x fa-fade fa-solid fa-house-chimney"></i><br/><a href="https://www.google.com/maps/place/IT+CHAMBERS/@22.3899986,91.8039848,17z/data=!3m1!4b1!4m6!3m5!1s0x30acd9c0b97891b1:0xa068fe24cfbbee06!8m2!3d22.3899937!4d91.8085982!16s%2Fg%2F11lgj96j9c?entry=ttu&g_ep=EgoyMDI1MTExNy4wIKXMDSoASAFQAw%3D%3D">Bayazid, Chittagong</a>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="container-fluid">
+  <div class="row justify-content-between">
+    <div class="col-8" style="padding-left: 50px;">
+      <h2 style="font-weight: 300; text-transform: uppercase;letter-spacing: 1px;">Md. Nazmul Hasan</h2>
+      <div class="designation" style="text-align: left;letter-spacing: 2px;">Web & Graphic Designer &Trainer</div>
+    </div>
+    <div class="col-4 text-end" style="padding-right: 50px;">
+      <img class="img-thumbnail" src="https://ypdesigner.com/image/main.png" width="100px" alt="nazmul hasan" />
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid">
+    <div class="col-12" style="padding:0px 25px;">
+        <h6 style="text-decoration: underline; font-weight: bold;">CAREER SUMMARY AND OBJECTIVE:</h6>
+        <p style="text-align: justify;">
+            Results-driven IT and design specialist with <b>18+ years of hands-on experience</b> in graphic design, web
+design and development, application creation, SEO, web server and hosting management, IT support,
+troubleshooting, freelancing, and teaching. Seeking to leverage my technical expertise, creative problemsolving skills, and training experience to deliver high-quality digital solutions and empower learners or
+teams to achieve professional excellence.
+        </p>
+    </div>
+</div>
+
+<div class="container-fluid px-6" style="padding:0px 45px;">
+    <div class="row gx-5">
+    <div class="col-6 p-3"> <h6 style="text-decoration: underline; font-weight: bold;">PROFESSIONAL EXPERIENCE:</h6>
+        <p style="text-align: justify; padding-right: 10px;">
+            <b>Web, Graphics & Freelancing Trainer</b> &nbsp;&nbsp;&nbsp; <u>6yr-6m</u>
+ <br/>
+ <span style="color: #0070C1;">Bangladesh-Korea Technical Training Center</span><br/>
+ (Government Technical Training Organization)<br/>
+ Nasirabad, Chittagong. <b>01/2015 ~ 07/ 2021</b><br/><br/>
+
+ <b>RESPONSIBILITIES:</b><br/>
+ 🍀 Delivered Hands-on Training in Graphic Design, Web
+ Design,<br/> SEO & Freelancing to students.<br/><br/>
+ 🍀 Guided trainees on On-Page/Off-Page optimization,
+ Social <br/>Marketing, Digital Portfolio building, Marketplace.
+        </p></div>
+    <div class="col-6 p-3"> <h6 style="text-decoration: underline; font-weight: bold;">COMPETENCY / SKILLS CERTIFICATE:</h6>
+        <p style="text-align: justify; padding-right: 10px;">
+            <b>National Skills Certificate on</b>
+ <br/>
+ <span style="color: #0070C1;">Graphic Design for Freelancing Level-3 (NSDA)</span><br/>
+ Reg No: RPL-ICT-GDF-L3-0033715, Date:15-11-25<br/>
+
+        </p>
+    <p style="text-align: justify; padding-right: 10px;">
+            <b>National Skills Certificate on</b>
+ <br/>
+ <span style="color: #0070C1;">Graphic Design, NTVQF Level - 2 (BTEB)</span><br/>
+ Reg No: 14109242619000005, Date:21-06-21<br/>
+
+        </p>
+
+         <p style="text-align: justify; padding-right: 10px;">
+            <b>National Skills Certificate on</b>
+ <br/>
+ <span style="color: #0070C1;">IT Support, NTVQF Level -1 (BTEB)</span><br/>
+ Reg No:14107232616000002, Date:12-02-16<br/>
+
+        </p>
+    </div>
+  </div>
+</div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+  </body>
 </html>
